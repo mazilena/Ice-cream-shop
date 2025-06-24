@@ -1,0 +1,223 @@
+Received data: 
+Received data: 
+Received data: Array
+(
+    [product_id] => P008
+)
+
+Product ID Received: P008
+Added product ID: P008 to wishlist
+Received data: 
+Received data: 
+Received data: 
+Received data: Array
+(
+    [product_id] => P003
+)
+
+Product ID Received: P003
+Removed product ID: P003 from wishlist
+Received data: 
+Received data: Array
+(
+    [product_id] => P006
+)
+
+Product ID Received: P006
+Removed product ID: P006 from wishlist
+Received data: Array
+(
+    [product_id] => P008
+)
+
+Product ID Received: P008
+Removed product ID: P008 from wishlist
+Received data: Array
+(
+    [product_id] => P008
+)
+
+Product ID Received: P008
+Added product ID: P008 to wishlist
+Received data: Array
+(
+    [product_id] => P008
+)
+
+Product ID Received: P008
+Removed product ID: P008 from wishlist
+Received data: Array
+(
+    [product_id] => P006
+)
+
+Product ID Received: P006
+Added product ID: P006 to wishlist
+Received data: Array
+(
+    [product_id] => P003
+)
+
+Product ID Received: P003
+Added product ID: P003 to wishlist
+Received data: Array
+(
+    [product_id] => P008
+)
+
+Product ID Received: P008
+Added product ID: P008 to wishlist
+Received data: Array
+(
+    [product_id] => P012
+)
+
+Product ID Received: P012
+Added product ID: P012 to wishlist
+Received data: Array
+(
+    [product_id] => P012
+)
+
+Product ID Received: P012
+Removed product ID: P012 from wishlist
+Received data: Array
+(
+    [product_id] => P003
+)
+
+Product ID Received: P003
+Removed product ID: P003 from wishlist
+Received data: Array
+(
+    [product_id] => P003
+)
+
+Product ID Received: P003
+Added product ID: P003 to wishlist
+Received data: Array
+(
+    [product_id] => P015
+)
+
+Product ID Received: P015
+Added product ID: P015 to wishlist
+Received data: Array
+(
+    [product_id] => P004
+)
+
+Product ID Received: P004
+Added product ID: P004 to wishlist
+Received data: Array
+(
+    [product_id] => P004
+)
+
+Product ID Received: P004
+Removed product ID: P004 from wishlist
+Received data: Array
+(
+    [product_id] => P002
+)
+
+Product ID Received: P002
+Added product ID: P002 to wishlist
+Received data: Array
+(
+    [product_id] => P003
+)
+
+Product ID Received: P003
+Removed product ID: P003 from wishlist
+Received data: Array
+(
+    [product_id] => P004
+)
+
+Product ID Received: P004
+Added product ID: P004 to wishlist
+Received data: Array
+(
+    [product_id] => P004
+)
+
+Product ID Received: P004
+Removed product ID: P004 from wishlist
+Received data: Array
+(
+    [product_id] => P004
+)
+
+Product ID Received: P004
+Added product ID: P004 to wishlist
+Received data: Array
+(
+    [product_id] => P004
+)
+
+Product ID Received: P004
+Removed product ID: P004 from wishlist
+Received data: Array
+(
+    [product_id] => P006
+)
+
+Product ID Received: P006
+Removed product ID: P006 from wishlist
+Received data: Array
+(
+    [product_id] => P006
+)
+
+Product ID Received: P006
+Added product ID: P006 to wishlist
+Received data: Array
+(
+    [product_id] => P004
+)
+
+Product ID Received: P004
+Added product ID: P004 to wishlist
+Received data: Array
+(
+    [product_id] => P004
+)
+
+Product ID Received: P004
+Removed product ID: P004 from wishlist
+Received data: Array
+(
+    [product_id] => P004
+)
+
+Product ID Received: P004
+Added product ID: P004 to wishlist
+Received data: Array
+(
+    [product_id] => P004
+)
+
+Product ID Received: P004
+Removed product ID: P004 from wishlist
+Received data: Array
+(
+    [product_id] => P003
+)
+
+Product ID Received: P003
+Added product ID: P003 to wishlist
+Received data: Array
+(
+    [product_id] => P003
+)
+
+Product ID Received: P003
+Removed product ID: P003 from wishlist
+Received data: Array
+(
+    [product_id] => P002
+)
+
+Product ID Received: P002
+Removed product ID: P002 from wishlist
