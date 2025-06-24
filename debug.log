@@ -1,0 +1,62 @@
+Array
+(
+    [user_id] => 
+    [payment_method] => cod
+    [products] => Array
+        (
+        )
+
+    [total_price] => 0
+    [address] => aaa
+    [address_type] => aaa
+)
+Array
+(
+    [user_id] => 
+    [payment_method] => cod
+    [products] => Array
+        (
+        )
+
+    [total_price] => 0
+    [address] => aaa
+    [address_type] => aaa
+)
+Array
+(
+    [user_id] => 
+    [payment_method] => cod
+    [products] => Array
+        (
+        )
+
+    [total_price] => 0
+    [address] => aaa
+    [address_type] => aaa
+)
+Received Data: Array
+(
+    [user_id] => 
+    [payment_method] => cod
+    [products] => Array
+        (
+        )
+
+    [total_price] => 0
+    [address] => aaa
+    [address_type] => aaa
+)
+Order Inserted Successfully with Order ID: ORD_67cc7e033a396
+Received Data: Array
+(
+    [user_id] => 
+    [payment_method] => cod
+    [products] => Array
+        (
+        )
+
+    [total_price] => 0
+    [address] => aaa
+    [address_type] => aaa
+)
+Error: User ID or Products missing!

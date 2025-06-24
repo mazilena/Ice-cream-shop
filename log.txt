@@ -1,0 +1,93 @@
+Array
+(
+    [name] => Mkics
+    [number] => 4444444444
+    [email] => voiceofpenpub@gmail.com
+    [address] => asdff
+    [address_type] => Home
+    [method] => COD
+    [total_price] => 428
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => P003
+                    [seller_id] => 104
+                    [name] => Blueberry Shake
+                    [price] => 159
+                    [image] => blueberry_shake.jpg
+                    [stock] => 25
+                    [category] => Thick Shakes
+                    [product_id] => P003
+                    [status] => active
+                    [description] => Blueberry Shake From Fresh Blueberries with Cream
+                    [qty] => 2
+                    [total_price] => 318
+                )
+
+            [1] => Array
+                (
+                    [id] => P004
+                    [seller_id] => 104
+                    [name] => Strawberry Shake
+                    [price] => 110
+                    [image] => strawberry_cheesecake_shake.jpg
+                    [stock] => 12
+                    [category] => Shakes
+                    [product_id] => P004
+                    [status] => active
+                    [description] => Strawberry blended with milk & cream.
+                    [qty] => 1
+                    [total_price] => 110
+                )
+
+        )
+
+)
+2025-03-10 19:24:34 - Array
+(
+    [name] => Mkics
+    [number] => 5555555555
+    [email] => voiceofpenpub@gmail.com
+    [address] => asdfgh
+    [address_type] => Home
+    [method] => COD
+    [total_price] => 428
+    [products] => Array
+        (
+            [0] => Array
+                (
+                    [id] => P003
+                    [seller_id] => 104
+                    [name] => Blueberry Shake
+                    [price] => 159
+                    [image] => blueberry_shake.jpg
+                    [stock] => 25
+                    [category] => Thick Shakes
+                    [product_id] => P003
+                    [status] => active
+                    [description] => Blueberry Shake From Fresh Blueberries with Cream
+                    [qty] => 2
+                    [total_price] => 318
+                )
+
+            [1] => Array
+                (
+                    [id] => P004
+                    [seller_id] => 104
+                    [name] => Strawberry Shake
+                    [price] => 110
+                    [image] => strawberry_cheesecake_shake.jpg
+                    [stock] => 12
+                    [category] => Shakes
+                    [product_id] => P004
+                    [status] => active
+                    [description] => Strawberry blended with milk & cream.
+                    [qty] => 1
+                    [total_price] => 110
+                )
+
+        )
+
+)
+

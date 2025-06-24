@@ -1,0 +1,16 @@
+Array
+(
+    [id] => 67e0661d4e19c
+    [user_id] => gP3HfqRS2N2JQKZVB5MR
+    [seller_id] => 1
+    [name] => Mkics
+    [email] => voiceofpenpub@gmail.com
+    [address] => qwertyy
+    [address_type] => Office
+    [method] => Online
+    [product_id] => P005
+    [price] => 99
+    [qty] => 1
+    [status] => in progress
+    [payment_status] => Pending
+)
