@@ -1,18 +1,20 @@
 FROM php:8.1-apache
 
-# Enable Apache rewrite module
+# Enable mod_rewrite
 RUN a2enmod rewrite
 
-# ✅ Install system dependencies, then install mysqli
+# Install PHP extensions (e.g., mysqli)
 RUN apt-get update && \
     apt-get install -y libpng-dev libjpeg-dev libonig-dev libxml2-dev zip unzip && \
     docker-php-ext-install mysqli
 
-# Copy project files
-COPY . /var/www/html/
+# Set home.php as default landing page
+RUN echo "DirectoryIndex home.php" >> /etc/apache2/apache2.conf
 
-# Set ownership (optional)
+# Copy all project files from 'icecream' folder
+COPY icecream/ /var/www/html/
+
+# Optional: Fix permissions
 RUN chown -R www-data:www-data /var/www/html
 
-# Expose default Apache port
 EXPOSE 80
