@@ -12,7 +12,7 @@ RUN apt-get update && \
 RUN echo "DirectoryIndex home.php" >> /etc/apache2/apache2.conf
 
 # Copy all project files from 'icecream' folder
-COPY icecream/ /var/www/html/
+COPY . /var/www/html/
 
 # Optional: Fix permissions
 RUN chown -R www-data:www-data /var/www/html
